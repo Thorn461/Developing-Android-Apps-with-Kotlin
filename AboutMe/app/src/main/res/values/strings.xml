@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Andrey Semenov</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio_text">Android Developer Documentation:
+Layouts
+LinearLayout
+ScrollView
+Now it’s your turn to complete this exercise.
+
+Add a ScrollView with a TextView showing information about yourself to the layout.
+Style the TextView with NameStyle, and add additional styling to separate the scrollable text from the edges of the screen.
+Add some spacing between the lines using the lineSpacingMultiplier property to the TextView.
+android:lineSpacingMultiplier="1.2"/>
+</string>
+    <string name="textview">TextView</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
